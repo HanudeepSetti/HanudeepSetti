@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hanudeep Setti!
 
 ## 🚀 About Me 
-I am a Research Associate in Pharma Life Sciences, currently transitioning into the dynamic field of **Data Science**. My journey is driven by a passion for leveraging data to solve real-world problems, especially in areas with significant social and business impact.
+I am a Research Associate in Life Sciences, Where ahead transitioning into the dynamic field of **Data Science**. My journey is driven by a passion for leveraging data to solve real-world problems, especially in areas with significant social and business impact.
 
 ---
 
